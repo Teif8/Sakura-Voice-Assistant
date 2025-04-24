@@ -1,0 +1,7 @@
+openai-whisper
+torch
+pyttsx3
+sounddevice
+scipy
+Pillow
+python-dotenv
